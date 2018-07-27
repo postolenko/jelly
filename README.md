@@ -1,1 +1,1 @@
-# http://postolenko.github.io/jelly/index.html
+# http://postolenko.github.io/jelly/1.svg
